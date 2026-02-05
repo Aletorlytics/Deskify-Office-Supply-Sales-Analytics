@@ -6,6 +6,16 @@ Deskify Office Supply Sales Analytics Dashboard
 <img width="1249" height="701" alt="Screenshot 2026-01-15 125855" src="https://github.com/user-attachments/assets/5ba577ea-6879-4ec9-ace2-ee2540f439d2" />
 <img width="1152" height="702" alt="Screenshot 2026-01-15 125953" src="https://github.com/user-attachments/assets/c1a679d6-d2a9-42fd-93b5-f5b50d9a8f2e" />
 
+Table of Content
+  - [Project Overview](#project-overview)
+  - [Business Problem](#business-problem)
+  - [Tools Used](#tools-used)
+  - [Data Description](#data-description)
+  - [Dashboard Scope](#dashboard-scope)
+  - [Key Insights](#key-insights)
+  - [Conclusion](#conclusion)
+  - [Recommendations](#recommendations)
+
 ### 📊 Project Overview
 This project analyzes Deskify’s office supply sales data from 2009 to 2012 to evaluate sales performance, profitability, customer behaviour, and regional trends. Using Power BI, an interactive dashboard was built to provide stakeholders with a centralized view of key business metrics across multiple years.
 The analysis supports better inventory planning, customer segmentation, and logistics optimization by highlighting high-performing product categories, loyal customers, and profitable regions.
@@ -33,7 +43,7 @@ The dataset covers office supply sales transactions from 2009 to 2012 and includ
 - Geographic data for regional and state-level analysis
 The data model enables multi-dimensional analysis across time, product, customer, and region.
 
-### 📈 Dashboard Scope & Features
+### 📈 Dashboard Scope
 - Overview KPIs showing total sales, total profit, total orders, and average margin
 - Category Analysis comparing sales and profit across Furniture, Technology, and Office Supplies
 - Regional Profit Map highlighting top-performing states
